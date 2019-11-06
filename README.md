@@ -66,6 +66,12 @@ _* [fibt(35)](https://github.com/d5/tengobench/blob/master/code/fibtc.tengo): [t
 _* **Go** does not read the source code from file, while all other cases do_  
 _* See [here](https://github.com/d5/tengobench) for commands/codes used_
 
+## Try it
+
+```bash
+go run cmd/tengo/main.go example/test.tengo
+```
+
 ## References
 
 - [Language Syntax](https://github.com/d5/tengo/blob/master/docs/tutorial.md)
@@ -75,3 +81,4 @@ _* See [here](https://github.com/d5/tengobench) for commands/codes used_
 - [Interoperability](https://github.com/d5/tengo/blob/master/docs/interoperability.md)
 - [Tengo CLI](https://github.com/d5/tengo/blob/master/docs/tengo-cli.md)
 - [Standard Library](https://github.com/d5/tengo/blob/master/docs/stdlib.md)
+
